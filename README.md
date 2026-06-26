@@ -7,7 +7,7 @@ Players can play on the same device following the standard chess rules, includin
 ## Features   
 - Two-player mode on the same device  
 - Validates legal moves for all pieces  
-- Detects check and checkmate  
+- Detects check and checkmate   
 - Undo last move (if implemented)  
 - Clean and responsive user interface
  
