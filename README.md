@@ -10,7 +10,7 @@ Players can play on the same device following the standard chess rules, includin
 - Detects check and checkmate  
 - Undo last move (if implemented)  
 - Clean and responsive user interface
-
+ 
 ## How to Run  
 1. Clone this repository or download the ZIP file.  
 2. Open the `index.html` file in any modern web browser (Chrome, Firefox, Edge, etc.).  
