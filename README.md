@@ -3,7 +3,7 @@
 ## Description  
 This is a simple two-player chess game built using JavaScript, HTML, and CSS.  
 Players can play on the same device following the standard chess rules, including check and checkmate detection.
-
+ 
 ## Features  
 - Two-player mode on the same device  
 - Validates legal moves for all pieces  
